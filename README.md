@@ -22,5 +22,5 @@ Python, Langchain, Streamlit
 Led the AI development and built the backend
 ### **Impact:** 
 **Analyzed more than 7300+ resumes.**
-### **External Resources:** Visit the project [here](https://resume.wize.co.in/).
+### **Visit the project:**  [here](https://resume.wize.co.in/).
 
