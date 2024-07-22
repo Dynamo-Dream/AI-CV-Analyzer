@@ -1,6 +1,5 @@
 # AI-CV-Analyzer
-
-I've worked on this project, but due to confidentiality reasons, I can't share the source code publicly. Here's a brief overview:
+Due to confidentiality reasons, I can't share the source code publicly. Here's a brief overview:
 ### **Screenshots:** 
 <p align="center">
   <img src="https://github.com/Dynamo-Dream/AI-CV-Analyzer/blob/main/images/home.png" alt="Image 1" width="45%"/> 
